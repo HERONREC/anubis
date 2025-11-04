@@ -95,3 +95,6 @@ For live chat, please join the [Patreon](https://patreon.com/cadey) and ask in t
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
+
+## Note
+You are looking at custom fork of Anubis for Ventiro Technologies, only change is default mascot change, and, rest is 1:1 same with upstream and will be synced with upstream.
